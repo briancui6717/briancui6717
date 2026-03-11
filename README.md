@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Brian Cui
 
-<!--
-**briancui6717/briancui6717** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full-Stack & Mobile Developer with over 10 years of experience building web platforms, mobile applications, and backend services.
 
-Here are some ideas to get you started:
+I enjoy building scalable applications and clean UI architectures while keeping systems simple and maintainable.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+Frontend
+- Angular
+- TypeScript
+- HTML / CSS
+
+Mobile
+- Ionic Framework
+- Angular Mobile Apps
+
+Backend
+- Node.js
+- Python
+- Django
+- REST APIs
+
+Databases
+- PostgreSQL
+- MySQL
+- MongoDB
+- Cassandra
+
+DevOps
+- Docker
+- Linux
+- Shell scripting
+
+## What I work on
+
+- Web platforms and dashboards
+- Cross-platform mobile applications
+- API development
+- Automation tools
+
+## Contact
+
+Email: briancui6717@gmail.com
