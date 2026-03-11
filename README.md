@@ -1,72 +1,65 @@
-# 👋 Hi, I'm Brian Cui
+# Brian Cui
 
-💻 **Senior Full-Stack & Mobile Developer**  
-🚀 10+ years building scalable **web platforms, mobile applications, and backend services**
+Senior Full-Stack & Mobile Developer with over 10 years of experience building web platforms, mobile applications, and backend services.
 
-I specialize in building **clean, maintainable architectures** and **high-performance applications** across the full stack.
-
-I enjoy turning complex ideas into **simple, scalable systems**.
+I focus on building scalable applications, clean UI architectures, and systems that are simple to maintain and evolve.
 
 ---
 
-# 🧠 Core Expertise
+## Expertise
 
-- Full-stack web development
-- SaaS platforms & dashboards
-- Cross-platform mobile applications
-- REST API architecture
-- Scalable system design
-- Workflow automation
+- Full-stack web application development
+- SaaS platforms and analytics dashboards
+- Cross-platform mobile application development
+- REST API architecture and backend services
+- Workflow automation and scalable system design
 
 ---
 
-# 🛠 Tech Stack
+## Technology Stack
 
-## 🎨 Frontend
+### Frontend
 - Angular
 - TypeScript
-- HTML5 / CSS3
-- Responsive UI architecture
+- HTML
+- CSS
+- Responsive web development
 
-## 📱 Mobile
+### Mobile Development
 - Ionic Framework
 - Angular-based mobile applications
-- Cross-platform development
+- Cross-platform mobile development
 
-## ⚙️ Backend
+### Backend
 - Node.js
 - Python
 - Django
 - REST API development
 
-## 🗄 Databases
+### Databases
 - PostgreSQL
 - MySQL
 - MongoDB
 - Cassandra
 
-## 🚀 DevOps
+### DevOps & Infrastructure
 - Docker
 - Linux
 - Shell scripting
-- Deployment automation
+- Containerized deployments
 
 ---
 
-# 📦 What I Build
+## Areas of Work
 
-✔ Modern **web platforms & dashboards**  
-✔ **Cross-platform mobile apps**  
-✔ Scalable **REST APIs**  
-✔ **Automation tools** and backend services  
-✔ Maintainable **full-stack architectures**
-
----
-
-# 📫 Contact
-
-📧 Email: **briancui6717@gmail.com**
+- Web platforms and operational dashboards
+- Cross-platform mobile applications
+- Backend services and API development
+- Automation tools and system integrations
+- Scalable application architecture
 
 ---
 
-⭐ Always interested in collaborating on **innovative SaaS platforms, scalable systems, and modern web applications.**
+## Contact
+
+Email: briancui6717@gmail.com
