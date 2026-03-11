@@ -1,44 +1,72 @@
-# Hi, I'm Brian Cui
+# 👋 Hi, I'm Brian Cui
 
-Senior Full-Stack & Mobile Developer with over 10 years of experience building web platforms, mobile applications, and backend services.
+💻 **Senior Full-Stack & Mobile Developer**  
+🚀 10+ years building scalable **web platforms, mobile applications, and backend services**
 
-I enjoy building scalable applications and clean UI architectures while keeping systems simple and maintainable.
+I specialize in building **clean, maintainable architectures** and **high-performance applications** across the full stack.
 
-## Tech Stack
+I enjoy turning complex ideas into **simple, scalable systems**.
 
-Frontend
+---
+
+# 🧠 Core Expertise
+
+- Full-stack web development
+- SaaS platforms & dashboards
+- Cross-platform mobile applications
+- REST API architecture
+- Scalable system design
+- Workflow automation
+
+---
+
+# 🛠 Tech Stack
+
+## 🎨 Frontend
 - Angular
 - TypeScript
-- HTML / CSS
+- HTML5 / CSS3
+- Responsive UI architecture
 
-Mobile
+## 📱 Mobile
 - Ionic Framework
-- Angular Mobile Apps
+- Angular-based mobile applications
+- Cross-platform development
 
-Backend
+## ⚙️ Backend
 - Node.js
 - Python
 - Django
-- REST APIs
+- REST API development
 
-Databases
+## 🗄 Databases
 - PostgreSQL
 - MySQL
 - MongoDB
 - Cassandra
 
-DevOps
+## 🚀 DevOps
 - Docker
 - Linux
 - Shell scripting
+- Deployment automation
 
-## What I work on
+---
 
-- Web platforms and dashboards
-- Cross-platform mobile applications
-- API development
-- Automation tools
+# 📦 What I Build
 
-## Contact
+✔ Modern **web platforms & dashboards**  
+✔ **Cross-platform mobile apps**  
+✔ Scalable **REST APIs**  
+✔ **Automation tools** and backend services  
+✔ Maintainable **full-stack architectures**
 
-Email: briancui6717@gmail.com
+---
+
+# 📫 Contact
+
+📧 Email: **briancui6717@gmail.com**
+
+---
+
+⭐ Always interested in collaborating on **innovative SaaS platforms, scalable systems, and modern web applications.**
